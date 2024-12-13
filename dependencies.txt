@@ -1,0 +1,12 @@
+
+
+
+
+
+
+
+pip install requests
+pip install beautifulsoup4
+pip install PyPDF2
+pip install pandas
+pip install openpyxl
